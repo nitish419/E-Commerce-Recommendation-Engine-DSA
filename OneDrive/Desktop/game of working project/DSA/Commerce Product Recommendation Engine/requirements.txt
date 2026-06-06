@@ -1,0 +1,16 @@
+# E-Commerce Product Recommendation Engine
+
+# --- Core DSA Logic ---
+# Uses Python Standard Library (heapq, collections)
+
+# --- Future Data Handling & ML (Optional) ---
+pandas==2.2.1
+numpy==1.26.4
+
+# --- Future API Deployment (Optional) ---
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# --- Developer Tools ---
+pytest==8.1.1
+black==24.3.0
